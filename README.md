@@ -1,4 +1,8 @@
 A simple prototype to deploy https://www.npmjs.com/package/@rdkit/rdkit as an aws lambda.
+
+Endpoint is at https://yd4q9j18hc.execute-api.us-east-1.amazonaws.com/Prod/hello/?smiles=CCO .
+
+Change the `smiles` query param to receive another inchi .
 # sam_rdkitjs
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.

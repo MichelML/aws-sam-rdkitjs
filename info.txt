@@ -1,1 +1,0 @@
-https://yd4q9j18hc.execute-api.us-east-1.amazonaws.com/Prod/hello/
